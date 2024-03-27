@@ -211,5 +211,5 @@ For Checkout.com issuing clients, please email issuing_operations@checkout.com f
 
 # License
 
-This SDK is released under the [MIT licence](https://github.com/checkout/oob-authentication-android/blob/main/PIMPB-2470_add_readme_license_file/LICENSE.txt).
+This SDK is released under the [MIT licence](https://github.com/checkout/oob-authentication-android/blob/main/LICENSE.txt).
 
